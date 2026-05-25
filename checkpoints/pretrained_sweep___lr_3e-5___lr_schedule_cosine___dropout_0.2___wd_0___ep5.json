@@ -1,0 +1,12 @@
+{
+  "run_name": "pretrained_sweep___lr_3e-5___lr_schedule_cosine___dropout_0.2___wd_0___ep5",
+  "best_epoch": 5,
+  "best_val_loss": 0.6897056431770324,
+  "best_val_acc": 0.598,
+  "ckpt_path": null,
+  "lr": 3e-05,
+  "weight_decay": 0.0,
+  "dropout": 0.2,
+  "lr_schedule": "cosine",
+  "num_epochs": 5
+}

@@ -1,0 +1,12 @@
+{
+  "run_name": "pretrained_sweep___lr_3e-5___lr_schedule_constant_with_warmup___dropout_0.4___wd_0___ep5",
+  "best_epoch": 4,
+  "best_val_loss": 0.6928529195785522,
+  "best_val_acc": 0.531,
+  "ckpt_path": null,
+  "lr": 3e-05,
+  "weight_decay": 0.0,
+  "dropout": 0.4,
+  "lr_schedule": "constant_with_warmup",
+  "num_epochs": 5
+}

@@ -1,0 +1,14 @@
+{
+  "run_name": "random_sweep___lr_3e-4___lr_schedule_constant_with_warmup___dropout_0.1___wd_1e-2___ep5",
+  "best_epoch": 3,
+  "best_val_loss": null,
+  "best_val_acc": 0.548,
+  "ckpt_path": "/workspace/NLP_Transformers/checkpoints/random_sweep___lr_3e-4___lr_schedule_constant_with_warmup___dropout_0.1___wd_1e-2___ep5.pt",
+  "lr": 0.0003,
+  "weight_decay": 0.01,
+  "dropout": 0.1,
+  "lr_schedule": "constant_with_warmup",
+  "num_epochs": 5,
+  "_source": "backfilled_from_wandb_summary",
+  "_wandb_run_dir": "run-20260523_220111-25p4cvcy"
+}

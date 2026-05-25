@@ -1,0 +1,12 @@
+{
+  "run_name": "pretrained_sweep___lr_1e-5___lr_schedule_wsd___dropout_0.2___wd_1e-2___ep5",
+  "best_epoch": 1,
+  "best_val_loss": 0.6931510558128356,
+  "best_val_acc": 0.5,
+  "ckpt_path": null,
+  "lr": 1e-05,
+  "weight_decay": 0.01,
+  "dropout": 0.2,
+  "lr_schedule": "wsd",
+  "num_epochs": 5
+}
